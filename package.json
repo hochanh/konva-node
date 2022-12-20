@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "canvas": "^2.10.2",
+    "image-data-uri": "^2.0.1",
+    "koa": "^2.14.1",
+    "konva": "^8.3.14"
+  }
+}
